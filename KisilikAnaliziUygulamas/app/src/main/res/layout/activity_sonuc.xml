@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:id="@+id/LLSonuc"
+    >
+    <TextView
+        android:id="@+id/sonuc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/purple_200"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textAllCaps="false"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:text="Kişiliğiniz:"
+        android:layout_margin="10dp"
+        android:padding="3dp"
+        />
+    <Button
+        android:id="@+id/BtnYeniAnaliz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="Yeni Analiz"
+        android:textAllCaps="false"
+        />
+    <Button
+        android:id="@+id/BtnMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="Menü"
+        android:textAllCaps="false"
+        />
+    <Button
+        android:id="@+id/BtnKayit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="Analizi Kaydet"
+        android:textAllCaps="false"
+        />
+</LinearLayout>
