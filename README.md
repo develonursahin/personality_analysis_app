@@ -1,4 +1,4 @@
-#Açıklama / Explanation
+Açıklama / Explanation
 Kiiilik Analizi Uygulamasi - TR
 Kişilik Tipini öğrenmeye yarayan, java ile yazılmış ve Android Studioda geliştirilmiş basit bir android uygulamadır.
 Beykent Üniversitesi Bilgisayar Mühendisliği Bölümü Kişilik Analizi Uygulaması, ONUR ŞAHİN tarafından Mobil Uygulama Programlama dersi için proje ödevi olarak geliştirilmiştir.
